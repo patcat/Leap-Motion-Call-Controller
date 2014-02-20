@@ -1,11 +1,10 @@
 {
-  "name": "Leap Call Controller",
+  "name": "LeapCallController",
   "version": "0.1.0",
   "author": "Patrick Catanzariti",
   "description": "Demo of muting an Android phone with a Leap Motion and on{X}",
   "dependencies": {
-    "express": "3.1.x",
-    "socket.io": "latest"
+    "express": "3.1.x"
   },
   "engines": {
     "node": "0.10.x",
